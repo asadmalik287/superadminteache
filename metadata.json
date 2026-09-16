@@ -1,0 +1,7 @@
+{
+  "name": "Teache HR - Super Admin & HRIS Platform",
+  "description": "Super Admin management portal and HRIS platform for Teache with multi-tenant company controls, admin impersonation, in-progress onboarding tracking, security audit trails, and billing oversight.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
